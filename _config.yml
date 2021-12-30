@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Seasick Games
-description: Feed of personal thoughts and views
+description:
 github_username: seasick
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "seasickgames.com"
